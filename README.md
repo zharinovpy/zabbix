@@ -64,7 +64,7 @@ systemctl enable zabbix-agent
 ### Скриншоты к заданиям 1 и 2
 
 
-`При необходимости прикрепитe сюда скриншоты
+
 ![image1](/zabbix/image/image1.png)
 ![image2](/zabbix/image/image2.png)
 ![image3](/zabbix/image/image3.png)
@@ -73,5 +73,5 @@ systemctl enable zabbix-agent
 ![image6](/zabbix/image/image6.png)
 ![image7](/zabbix/image/image7.png)
 ![image8](/zabbix/image/image8.png)
-`
+
 
