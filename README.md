@@ -65,13 +65,13 @@ systemctl enable zabbix-agent
 
 
 
-![image1](/zabbix/image/image1.png)
-![image2](/zabbix/image/image2.png)
-![image3](/zabbix/image/image3.png)
-![image4](/zabbix/image/image4.png)
-![image5](/zabbix/image/image5.png)
-![image6](/zabbix/image/image6.png)
-![image7](/zabbix/image/image7.png)
-![image8](/zabbix/image/image8.png)
+![image1](image/image1.png)
+![image2](image/image2.png)
+![image3](image/image3.png)
+![image4](image/image4.png)
+![image5](image/image5.png)
+![image6](image/image6.png)
+![image7](image/image7.png)
+![image8](image/image8.png)
 
 
